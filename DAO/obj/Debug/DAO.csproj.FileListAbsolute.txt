@@ -1,0 +1,11 @@
+D:\C#\DO_AN_1\DAO\bin\Debug\DAO.dll
+D:\C#\DO_AN_1\DAO\bin\Debug\DAO.pdb
+D:\C#\DO_AN_1\DAO\bin\Debug\DTO.dll
+D:\C#\DO_AN_1\DAO\bin\Debug\DTO.pdb
+D:\C#\DO_AN_1\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\C#\DO_AN_1\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\C#\DO_AN_1\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\C#\DO_AN_1\DAO\obj\Debug\DAO.dll
+D:\C#\DO_AN_1\DAO\obj\Debug\DAO.pdb
+D:\C#\DO_AN_1\DAO\bin\Debug\DAO.dll.config
+D:\C#\DO_AN_1\DAO\bin\Debug\DTO.dll.config
